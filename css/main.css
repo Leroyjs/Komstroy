@@ -251,7 +251,6 @@ h6,
     opacity: 0;
     z-index: 5;
     min-width: 120px;
-    padding-right: 25px;
     transform: perspective(600px) rotateX(-90deg);
     transform-origin: 0% 0%;
     transition: .4s ease-in-out;
@@ -280,6 +279,7 @@ h6,
     font-size: 13px;
     line-height: 36px;
     padding-left: 25px;
+    padding-right: 25px;
     transition: .4s ease-in-out;
 }
 
